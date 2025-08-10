@@ -1,4 +1,4 @@
-# practical-fun
+# Module 11, Practical Assignment 2
 
 This repository explores a large dataset of used vehicles to understand which factors influence price.
 
